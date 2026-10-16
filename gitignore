@@ -1,0 +1,15 @@
+# Compiled program files
+*.exe
+*.out
+*.o
+
+# Student data files
+students.dat
+students.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
